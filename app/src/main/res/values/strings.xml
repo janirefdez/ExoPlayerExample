@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExoPlayerExample</string>
+    <string name="sound">SOUND PLAYER</string>
+    <string name="video">VIDEO PLAYER</string>
+    <string name="video_custom">VIDEO CUSTOM PLAYER</string>
+    <!--Content Description-->
+    <string name="exo_prev">exo_prev</string>
+    <string name="exo_rew">exo_rew</string>
+    <string name="exo_play">exo_play</string>
+    <string name="exo_pause">exo_pause</string>
+    <string name="exo_ffwd">exo_ffwd</string>
+    <string name="exo_next">exo_next</string>
+
+
+
+</resources>
