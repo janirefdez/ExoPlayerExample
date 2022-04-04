@@ -1,6 +1,9 @@
 # ExoPlayerExample
-[![Kotlin](https://img.shields.io/badge/Kotlin--blue.svg)](https://kotlinlang.org/)
-[![Android](https://img.shields.io/badge/Android--blue.svg)](https://developer.android.com/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.6.10-blue.svg)](https://kotlinlang.org/)
+[![Android](https://img.shields.io/badge/Android->=21-blue.svg)](https://developer.android.com/)
+[![Gradle](https://img.shields.io/badge/Gradle-7.2-blue.svg)](https://docs.gradle.org/7.2/userguide/userguide.html)
+[![ExoPlayer](https://img.shields.io/badge/ExoPlayer-2.17.1-purple.svg)](https://github.com/google/ExoPlayer/releases/tag/r2.17.1)
+
 
 Basic example where you can find how to play a video or sound with ExoPlayer
 
